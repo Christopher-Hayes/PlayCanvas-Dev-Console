@@ -1,4 +1,4 @@
-# PlayCanvas Dev Console
+# PlayCanvas Dev Console Tool
 
 This is a little script I use to look at what assets are currently loaded in the scene and what the file size + VRAM is.
 
