@@ -2,6 +2,8 @@
 
 This is a little script I use to look at what assets are currently loaded in the scene and what the file size + VRAM is.
 
+![Close-up screenshot](https://raw.githubusercontent.com/Christopher-Hayes/PlayCanvas-Dev-Console/master/image%20(4).png)
+
 **Functions:**
 
 `loadedAssets([ filter() ])` Show all assets currently loaded. Filter is optional.
@@ -28,6 +30,7 @@ Output shows `[reference number] [filename] [asset type] [asset size] [asset VRA
 
 The asset object can be quickly viewed using the `asset` object via either the "reference number" or the asset name, ie `asset[38]` or `asset['Asset Name.png']`
 
+![Full screenshot](https://raw.githubusercontent.com/Christopher-Hayes/PlayCanvas-Dev-Console/master/image.png)
 
 **Paste this into a script or directly into the dev console on any PlayCanvas project**
 
